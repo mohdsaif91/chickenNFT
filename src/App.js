@@ -9,6 +9,7 @@ import chicken1 from "./images/chicken1.png"
 import chicken2 from "./images/chicken2.png"
 import chicken3 from "./images/chicken3.png"
 import arrowdown from "./images/arrowdown.svg"
+// import arrowdown from "./images/arrowdown.svg"
 
 import './App.css';
 
