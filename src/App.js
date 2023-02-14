@@ -52,7 +52,7 @@ v          <img src={banner2} className=" w-[100%] mt-20 " ></img>
           <div className=' text-center text-white m-3  '>
             <h3 className=' border-[1px]-[#C32F27] font-bold text-4xl my-4'>Content</h3>
             <p className=' flex m-2 text-4xl my-2' > <img src={mail} className="mr-2 w-8 " ></img>your@anonheLper.com</p>
-            <p className=' flex m-2 text-4xl my-2' > <img src={mail} className="mr-2 w-8"></img>ibrahim.bhabay@gmail.com</p>
+            <p className=' flex m-2 text-4xl my-2' > <img src={mail} className="mr-2 w-8"></img>get@yournft.com</p>
             <p className=' flex m-2 text-4xl my-2' > <img src={telegram} className="mr-2 w-8"></img>@CocktaiLDev</p>
             <img src={chicken} className="w-[25%] mx-auto my-10" ></img>
           
